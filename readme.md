@@ -1,4 +1,4 @@
-# zip-dist
+# dist-zipper
 ### Usage:
 ```bash
 zip-dist <input>
