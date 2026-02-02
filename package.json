@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "bin": {
-    "zip-dist": "./bin/zip-dist.js"
+    "zip-dist": "bin/zip-dist.js"
   },
   "dependencies": {
     "archiver": "^7.0.0"
